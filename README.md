@@ -4,7 +4,7 @@ olá👋, eu sou Talyson
 - Busco sempre aprender novas tecnologias.
 - Sou Dicente do curso Ciência da Computação - IFS
 ## Linguagens e Frameworks 💻
-Java📖,Java Script📖, HTML/CSS📖, C#📖 
+Java📖,Java Script📖, HTML/CSS📖 e C#📖 
 ## Interesses 
 - Tecnologia, codificação e IA
 - Desevolvimento de Jogos na Unity Engine
