@@ -7,7 +7,7 @@ olá👋, eu sou Talyson
 Java📖,Java Script📖, HTML/CSS📖 e Spring Boot 📖
 ## Interesses 
 - Tecnologia, codificação e IA
-- Desenvolvimento Web
-- Desevolvimento de Jogos na Unity Engine
+- Desenvolvimento Web/Software 
+- Desenvolvimento de Jogos na Unity Engine
 
 Obrigado por ver meu perfil 😁😉.
