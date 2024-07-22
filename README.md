@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Busco sempre aprender novas tecnologias<br>- Sou Aluno do curso Ciência da Computação - IFS<br><br>
+- Busco sempre aprender novas tecnologias<br>
+- Sou Aluno do curso Ciência da Computação - IFS<br><br>
 
 
 ## 🌐 Socials:
