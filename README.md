@@ -9,6 +9,6 @@ Olá, sou Talyson Rodrigues discente do curso de Ciência da Computação - IFS 
 ---
 ## 🌐 Contato:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/talyson-rodrigues/) 
-[![LinkedIn](https://skillicons.dev/icons?i=email)](talyson.r.silva.n@gmail.com) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](talyson.r.silva.n@gmail.com) 
 
 
